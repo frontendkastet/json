@@ -1,0 +1,596 @@
+[
+    {
+        "id": "70e9d714-1dc7-11e7-9514-d75085a69c73",
+        "name": "AK2540-7",
+        "imei": 352848023742147,
+        "vehicle_params": {
+            "vin": null,
+            "make": "Mercedes",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "70ed020e-1dc7-11e7-9a61-b33a22f65557",
+        "name": "АН0185-7",
+        "imei": 867481036694234,
+        "vehicle_params": {
+            "vin": "973742-",
+            "make": "DAF",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "70ddb8bc-1dc7-11e7-b1fb-53f651aaf63f",
+        "name": "AM4860-7",
+        "imei": 867481036819070,
+        "vehicle_params": {
+            "vin": "672909",
+            "make": null,
+            "model": "Mercedes",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "71268ff6-1dc7-11e7-a470-67abf2934283",
+        "name": "AH6728-7",
+        "imei": 868597036232540,
+        "vehicle_params": {
+            "vin": null,
+            "make": "DAF",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "70cdb5d4-1dc7-11e7-b22b-874231bd2f90",
+        "name": "AТ1221-5",
+        "imei": 867481037165028,
+        "vehicle_params": {
+            "vin": null,
+            "make": "Mercedes",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "7083201e-1dc7-11e7-b33f-f35aaf9e64e2",
+        "name": "АР8641-5",
+        "imei": 12896004352206,
+        "vehicle_params": {
+            "vin": "655256",
+            "make": "Volvo",
+            "model": "380",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "70dd6fce-1dc7-11e7-b15c-6ffffe4d23f2",
+        "name": "АР8907-5",
+        "imei": 12207007373050,
+        "vehicle_params": {
+            "vin": "537625",
+            "make": "Volvo",
+            "model": "FM380",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "710430a0-1dc7-11e7-b992-0fd1a47590f6",
+        "name": "AТ1220-5",
+        "imei": 867481036705451,
+        "vehicle_params": {
+            "vin": null,
+            "make": "Volvo",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "71268592-1dc7-11e7-a46a-fbc766df43c7",
+        "name": "АТ4737-7",
+        "imei": 867481037011065,
+        "vehicle_params": {
+            "vin": "456315",
+            "make": "Мерседес Е6",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "70cb681a-1dc7-11e7-ac7c-37be13dcc5ef",
+        "name": "AI3395-6",
+        "imei": 12207007378612,
+        "vehicle_params": {
+            "vin": "973755",
+            "make": "DAF",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "708410b4-1dc7-11e7-b576-c7b1b7547833",
+        "name": "АР6461-5",
+        "imei": 12207007354738,
+        "vehicle_params": {
+            "vin": null,
+            "make": "Volvo",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "7078819a-1dc7-11e7-9888-cf17bb55409c",
+        "name": "AT4738-7",
+        "imei": 867481036705394,
+        "vehicle_params": {
+            "vin": null,
+            "make": "Mersedes",
+            "model": "Actros",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "70bf8eaa-1dc7-11e7-9053-4b53345d6bbd",
+        "name": "К208НТ67",
+        "imei": 861785009226675,
+        "vehicle_params": {
+            "vin": "673226",
+            "make": null,
+            "model": "Mercedes",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "70fef1b2-1dc7-11e7-b1b3-2756a35003a2",
+        "name": "AI3371-6",
+        "imei": 861785009234265,
+        "vehicle_params": {
+            "vin": "973744",
+            "make": null,
+            "model": "DAF",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "71006ec0-1dc7-11e7-b3ce-dbfaafadef40",
+        "name": "М144АН67",
+        "imei": 13226002362578,
+        "vehicle_params": {
+            "vin": "321128",
+            "make": null,
+            "model": "Scania",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "71268c9a-1dc7-11e7-a46e-0f95d2e6a17b",
+        "name": "AH0625-7",
+        "imei": 867481036819633,
+        "vehicle_params": {
+            "vin": "728515",
+            "make": null,
+            "model": "Mercedes",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "70cdd8b6-1dc7-11e7-b27f-af2a08491d58",
+        "name": "о617му-67",
+        "imei": 13226002363691,
+        "vehicle_params": {
+            "vin": "685139",
+            "make": null,
+            "model": "Mercedes",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "70823ae6-1dc7-11e7-b108-67e71926179a",
+        "name": "AI3508-6",
+        "imei": 13226002288047,
+        "vehicle_params": {
+            "vin": "937737",
+            "make": "daf",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "70822aba-1dc7-11e7-b0df-8b87c8ca7b44",
+        "name": "AI3394-6",
+        "imei": 13226002339469,
+        "vehicle_params": {
+            "vin": "937715",
+            "make": "daf,",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "7083d61c-1dc7-11e7-b4ee-63e9fdf043e2",
+        "name": "AI3509-6",
+        "imei": 13226002340921,
+        "vehicle_params": {
+            "vin": "973757",
+            "make": "daf,",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "7083b7c2-1dc7-11e7-b4a7-1fa99a0e2ce5",
+        "name": "AI3378-6",
+        "imei": 13226002288385,
+        "vehicle_params": {
+            "vin": "973705",
+            "make": "daf,",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "7082fa76-1dc7-11e7-b2e6-477bb8ae2b86",
+        "name": "AI3370-6",
+        "imei": 13226002305783,
+        "vehicle_params": {
+            "vin": "973707",
+            "make": null,
+            "model": "DAF",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "71268740-1dc7-11e7-a46b-d3156c7b7b62",
+        "name": "AO7856-7",
+        "imei": 868597036149660,
+        "vehicle_params": {
+            "vin": null,
+            "make": null,
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "71011b40-1dc7-11e7-b4c5-033eccb64711",
+        "name": "AO8468-7",
+        "imei": 865733028587483,
+        "vehicle_params": {
+            "vin": null,
+            "make": null,
+            "model": "Daf",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "7126893e-1dc7-11e7-a46c-6709a21d681e",
+        "name": "AO9335-7",
+        "imei": 868324021775213,
+        "vehicle_params": {
+            "vin": null,
+            "make": null,
+            "model": "Mercedes",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "70e94c68-1dc7-11e7-93e4-1f3f74146082",
+        "name": "АМ5977-5 для истории",
+        "imei": 371606383033,
+        "vehicle_params": {
+            "vin": null,
+            "make": null,
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "1a48a8d6-4f3b-11e7-a47b-1bbd5aadb1ac",
+        "name": "АР8906-5",
+        "imei": 861785009176730,
+        "vehicle_params": {
+            "vin": "658724",
+            "make": "Вольво",
+            "model": "FH 460",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "6c2dd2e8-4f3b-11e7-b784-231e7c7ee30f",
+        "name": "АР0966-7",
+        "imei": 866600040164246,
+        "vehicle_params": {
+            "vin": null,
+            "make": null,
+            "model": "mersedes",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "783c6f0e-4f3b-11e7-b798-1bb8f8f68fad",
+        "name": "АР2456-7",
+        "imei": 868597036206544,
+        "vehicle_params": {
+            "vin": null,
+            "make": null,
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "7a0ecba6-4f3b-11e7-b79b-ab6e776f53fa",
+        "name": "АР2455-7",
+        "imei": 867481036705444,
+        "vehicle_params": {
+            "vin": null,
+            "make": null,
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "80ac1784-4f3b-11e7-b7a6-e33b2ebc5120",
+        "name": "Ар2457-7",
+        "imei": 867481037165010,
+        "vehicle_params": {
+            "vin": null,
+            "make": null,
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "0a31bffa-7777-11e7-9073-1b5378d53fc4",
+        "name": "А585ЕР67RUS",
+        "imei": 864547034966049,
+        "vehicle_params": {
+            "vin": null,
+            "make": null,
+            "model": "mers",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "0ad43118-7777-11e7-9074-d3cc3b2f8721",
+        "name": "А186ЕН67RUS",
+        "imei": 864547034798558,
+        "vehicle_params": {
+            "vin": null,
+            "make": null,
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "e8e9a13a-9c44-11e7-9531-17a14826fa50",
+        "name": "A671MK-67",
+        "imei": 864547036186679,
+        "vehicle_params": {
+            "vin": "266267",
+            "make": "DAF",
+            "model": "FT XF 150.460",
+            "plate_number": "A671MK-67"
+        }
+    },
+    {
+        "id": "8ada2ed6-ad9f-11e7-aa60-4ff1fe92af50",
+        "name": "АТ2168-7",
+        "imei": 864547036330137,
+        "vehicle_params": {
+            "vin": "210198",
+            "make": "Мерседес",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "8b80f482-ad9f-11e7-aa61-47b87ef68b88",
+        "name": "АТ2169-7",
+        "imei": 864547036334600,
+        "vehicle_params": {
+            "vin": "210199",
+            "make": "Мерседес",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "1f4fccf4-d9a3-11e7-9f75-f3f45e957b72",
+        "name": "AP3828-7",
+        "imei": 866191035913201,
+        "vehicle_params": {
+            "vin": "207822",
+            "make": "Mercedes",
+            "model": "Actros",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "250e07d2-d9a3-11e7-9f77-ff78c076d031",
+        "name": "AP3817-7",
+        "imei": 867481035212848,
+        "vehicle_params": {
+            "vin": null,
+            "make": "Даф",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "6c3c3e8e-573f-11e8-910c-ff3aea8b8538",
+        "name": "а374ко67RUS",
+        "imei": 866191037316569,
+        "vehicle_params": {
+            "vin": "254639",
+            "make": "Mercedes",
+            "model": "Actros",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "9485488e-6894-11e8-b6b9-effcf990f8fc",
+        "name": "AC 0344-7",
+        "imei": 867481037189671,
+        "vehicle_params": {
+            "vin": "298178",
+            "make": "Mercedes",
+            "model": "Actros е6",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "e5a40284-7b8e-11e8-822e-4be0cda71a90",
+        "name": "АM4858-7",
+        "imei": 868597036247928,
+        "vehicle_params": {
+            "vin": "672757",
+            "make": "Мерседес",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "ca78f2d6-93fc-11e8-8d0c-2382ea3c7ebd",
+        "name": "AC 0343-7",
+        "imei": 867481033046040,
+        "vehicle_params": {
+            "vin": null,
+            "make": null,
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "2bd04e3c-b72d-11e8-a32c-1bfb8f6875b4",
+        "name": "АО9334-7",
+        "imei": 868999036362105,
+        "vehicle_params": {
+            "vin": "058554",
+            "make": "Мерседес",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "f09f60cc-01f6-11e9-ac28-c7633f8e9177",
+        "name": "AC7168-7",
+        "imei": 867481036703787,
+        "vehicle_params": {
+            "vin": "360544",
+            "make": "Мерседес",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "08548b0c-399c-11e9-991f-c37bae263219",
+        "name": "AC4452-7",
+        "imei": 866600042312710,
+        "vehicle_params": {
+            "vin": "262662",
+            "make": "Даф",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "b91ecf44-40a2-11e9-89f4-bb00a6920ea2",
+        "name": "АС5603-7",
+        "imei": 865733027851286,
+        "vehicle_params": {
+            "vin": "263272",
+            "make": null,
+            "model": "DAF",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "fa93a0c6-ded6-11e9-83e5-8394280daba7",
+        "name": "АС7900-7",
+        "imei": 868999036378283,
+        "vehicle_params": {
+            "vin": "803646",
+            "make": "Ман",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "e85aac20-e362-11e9-913a-c762af9b96f6",
+        "name": "АМ5928-5",
+        "imei": 865291040715897,
+        "vehicle_params": {
+            "vin": "010039",
+            "make": "Рено ",
+            "model": "Премиум",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "c07e5b1c-9ae0-11ea-a1e2-affd1d5eb24e",
+        "name": "AT2083-7",
+        "imei": 869153042550738,
+        "vehicle_params": {
+            "vin": null,
+            "make": "Мерс Е6",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "517bf712-9b47-11ea-b8a9-afc374b5621d",
+        "name": "АТ2002-7",
+        "imei": 867481036794612,
+        "vehicle_params": {
+            "vin": "298176",
+            "make": "Мерседес",
+            "model": null,
+            "plate_number": null
+        }
+    },
+    {
+        "id": "522704b2-f8b3-11ea-8dc3-53845372908b",
+        "name": "AT 3121-7",
+        "imei": 861785009195144,
+        "vehicle_params": {
+            "vin": "692584",
+            "make": null,
+            "model": "Mercedes",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "850dd228-19d0-11eb-bd91-2bc189120bbb",
+        "name": "АТ3428-7",
+        "imei": 12896000669744,
+        "vehicle_params": {
+            "vin": "685138",
+            "make": null,
+            "model": "Mercedes",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "e56dfe20-3304-11eb-9ceb-93d50a0cfbc3",
+        "name": "АТ3540-7",
+        "imei": 861785009198718,
+        "vehicle_params": {
+            "vin": "688355",
+            "make": null,
+            "model": "Mercedes",
+            "plate_number": null
+        }
+    },
+    {
+        "id": "5526ba98-3aeb-11eb-a2cb-fb7b88237663",
+        "name": "AT4497-7",
+        "imei": 868597036148472,
+        "vehicle_params": {
+            "vin": null,
+            "make": "DAF",
+            "model": null,
+            "plate_number": null
+        }
+    }
+]
